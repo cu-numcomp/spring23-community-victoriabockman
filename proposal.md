@@ -1,7 +1,10 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *SciPy?*
+
+Find one module to use, if picking a big package like this.
+    - Who made that specific module? What does it do?
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
