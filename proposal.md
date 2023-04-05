@@ -5,8 +5,6 @@ Please edit this file and push to your repository.
 
 Find one module to use, if picking a big package like this.
     - Who made that specific module? What does it do?
-Specifically, I like the look of this page > https://docs.scipy.org/doc/scipy/tutorial/optimize.html#still-too-slow-preconditioning
-    I want to look up ways to optimize some of the algorithms we've leanred in class, using this Python package, and analyzing the accuracy/efficiency/speed of these algorithms compared to some other ones.
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
