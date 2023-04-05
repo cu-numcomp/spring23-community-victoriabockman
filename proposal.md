@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *SciPy?*
+## Software: SciPy, scipy.linalg
 
 Find one module to use, if picking a big package like this.
     - Who made that specific module? What does it do?
@@ -10,6 +10,8 @@ Specifically, I like the look of this page > https://docs.scipy.org/doc/scipy/tu
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
+
+For my project, I want to look at a specific module within the SciPy package. SciPy is a very big open source library in Python used for all kinds of scientific computing. The package includes methods and functions for integration, differentiation, optimization, interpolation, linear algebra, and signal processing. The module I want to focus on is decomposition techniques. Specifically, Singular Value, Cholesky, and QR decomposition.
 
 ### Stats
 
