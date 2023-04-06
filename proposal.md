@@ -35,10 +35,10 @@ For my project, I want to look at a specific module within the SciPy package. Sc
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [x] I have installed the software
+- [x] I have run at least one example
+- [x] I have run the test suite
+- [x] The test suite passes
 
 ### Notes/concerns/risks
 
